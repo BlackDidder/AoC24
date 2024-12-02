@@ -1,4 +1,4 @@
-with open("/home/user/IdeaProjects/AoC24/input.txt", "r") as f:
+with open("/home/user/IdeaProjects/AoC24/day1/input.txt", "r") as f:
     file=f.read()
 lines=file.splitlines()
 leftN = []
