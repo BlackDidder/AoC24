@@ -1,4 +1,4 @@
-with open("/home/simon/IdeaProjects/AoC24/Day2/input", "r") as f:
+with open("/home/user/IdeaProjects/AoC24/Day2/input", "r") as f:
     file = f.read()
 allMul = []
 k=0
