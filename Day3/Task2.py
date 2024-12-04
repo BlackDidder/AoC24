@@ -1,5 +1,5 @@
 import re
-with open("/home/user/IdeaProjects/AoC24/Day3/input", "r") as f:
+with open("input", "r") as f:
     file = f.read()
 mul = 0
 enabled = True

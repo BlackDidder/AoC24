@@ -1,4 +1,4 @@
-with open("/home/user/IdeaProjects/AoC24/Day2/input", "r") as f:
+with open("input", "r") as f:
     file = f.read()
 lines = file.splitlines()
 i = 0
